@@ -1,0 +1,6 @@
+comment = 'parser_ext extension'
+default_version = '0.1.0'
+module_pathname = '$libdir/parser_ext'
+relocatable = true
+superuser = false
+
